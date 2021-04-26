@@ -1,0 +1,26 @@
+[
+	{
+		"schoolName": "School Of IT",
+		"schoolAddress": "155 Main Road, Somerset West"
+	},
+	{
+		"numberOfStaff":20
+	},
+	{
+		"joelClients": ["Ryan", "Thembelihle", "Sipho"],
+		"isMale": true,
+		"courses": [
+
+			{
+				"courseName": "Full stack Development"	
+			},
+			{
+				"courseName" : "Software Engineering"
+			}
+		]
+			
+		
+	}
+
+
+]
